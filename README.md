@@ -1,4 +1,11 @@
+# Emerson Ferreira
+
+#### Desenvolvedor Front-End
+
 ### Hi there 👋
+
+#### I´m currently studiyng at EBAC to be a Fullstack Python Developer
+####🌱 I’m currently learning Front-End
 
 <!--
 **Eemerson39/Eemerson39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
