@@ -1,6 +1,6 @@
 # Emerson Ferreira
 
-## Desenvolvedor Front-End
+## Front-End Developer
 
 ### Hi there 👋
 
