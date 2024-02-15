@@ -4,7 +4,6 @@
 
 ### Hi there 👋
 
-- 🔭I´m currently studiyng at EBAC to be a Fullstack Python Developer
 - 🌱 I’m currently learning Front-End
 - 📫 Contact: Linkedin | https://www.linkedin.com/in/emerson-ferreira-54a64b164/
 
